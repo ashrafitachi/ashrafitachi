@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development, self improvement, watching series and anime.
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me FB- @ashrafitachi78
+- 📫 How to reach me-
+- https://www.facebook.com/ashrafitachi78
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am learning html,css just to make a nice looking website for myself.
 
